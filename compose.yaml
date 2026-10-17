@@ -1,0 +1,29 @@
+# 不需要 .env；这个文件只包含非敏感的域名和端口配置。
+services:
+  wordgarden:
+    build: .
+    image: wordgarden:local
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8765:8765"
+    environment:
+      WORD_ORIGIN: "http://localhost:8765"
+      WORD_DATA_DIR: "/app/storage"
+      PYTHONUNBUFFERED: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - wordgarden-data:/app/storage
+    read_only: true
+    tmpfs:
+      - /tmp:size=32m,mode=1777
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+volumes:
+  wordgarden-data:

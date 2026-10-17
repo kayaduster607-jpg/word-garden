@@ -1,0 +1,11 @@
+storage
+tests
+tools
+docs
+design
+vendor
+__pycache__
+*.pyc
+*.zip
+.git
+.env*

@@ -1,0 +1,12 @@
+storage/
+vendor/
+__pycache__/
+*.pyc
+*.zip
+.env*
+.venv/
+backups/
+*.sqlite3
+*.sqlite3-*
+*.sqlite
+*.db

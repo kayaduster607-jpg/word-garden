@@ -1,0 +1,5575 @@
+{
+  "b53584a5ed44d92a5d5d": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "人们越来越认识到……的重要性。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8f86b2abc22f31c5691d": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "近年来，……在……中变得越来越重要。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "fcd603315e9ffeb950ac": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "随着……越来越普遍，其好处和潜在风险值得关注。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bdbae3f5a1c91182e4a2": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "谈到……，人们可能有不同看法。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a547dd8c0d80387f4972": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "在快速变化的世界里，……的能力变得越来越有价值。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b2f593d7939a8dcfd539": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "问题不在于是否使用……，而在于如何明智地使用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "33f4718d668c65fdefa5": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "图表显示……从某年到某年发生了明显变化。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9ef3d6d6469af432404a": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "数据表明，……领域已经取得了相当大的进展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9a503a556f21207a41e0": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "在我看来，……对……来说是一个切实可行的选择。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2e68a3aefba97aea6ee7": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "我认为，……的好处在很大程度上取决于它如何被使用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "5fc5e941c8cc89bb8b7c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "与其把 A 和 B 视为对立面，不如学会平衡二者。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9e599a837fd023bd5d2c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "尽管 A 有明显优势，但不应把它视为解决 B 的完整方案。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ea9a28340cf95a272d6b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "关键是作出有依据的决定，而不是盲目跟风。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e97e5b026ed0d22f85bf": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "一个主要原因是……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "042400fe548e0ff4ff2e": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "更重要的是，……能帮助人们……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2cc16040a5c576721849": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "这是因为……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "5e1ca6fc3647e56e34a1": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "通过……，学生能够培养……，并更好地为……做准备。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "82598211bf1c30525e1e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这样的经历有助于把理论知识转化为实践技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "377b2ec5d52950f875da": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "它不仅……，而且……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "902a9b0d946bf11272d6": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "这使……能够……，进而有助于……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1185de55966cf75fce76": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "例如，参加……的学生可能学会……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bdc279498a692bd49f89": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "我自己的经历让我明白……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "51bad356d26f28bfbb5d": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "它能改善……的质量。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "929a043bac0593ea681d": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "它让人们更容易……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "35237f87ff3f8cf6cfe1": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "它有助于开阔视野并加深对……的理解。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ebfed0394d8b05f9f397": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "它为学生提供获得实践经验的机会。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a0b443caff59daa7e203": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "它能加强合作并建立相互信任。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "40d5ecaed4921899594a": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "它为……打下坚实基础。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "3fa46cc0cafa15686d3b": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "从长远来看，这些努力能为……带来持久的好处。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "933e379d49435076bd75": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "然而，如果使用不当，……也可能带来问题。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9257b161daab6d5223d3": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "过度依赖……可能削弱人们……的能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "02bdf564fd4b5076b19b": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "一个潜在缺点是……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "19d3a26f8029a4e02b49": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "如果不加以控制，这个问题可能导致……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "68f82fe22733058fa99e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "应当权衡好处与潜在风险。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d9c857a097a051296514": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "不能以牺牲……为代价换取便利。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1cab6ff34af7e7a273db": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "这并不意味着我们应该完全拒绝……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "29f46e373840082f051d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应该把所学知识付诸实践。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "97731970dd34c6e03be0": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "高校可以为学生提供更多参与实习和项目的机会。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "23ae90122a7f9ef5a4a5": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "我们应该采取切实措施解决问题，而不是只喊口号。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "74b5d510b9d286e1230b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "家长应给予指导，同时让孩子有足够空间自主作决定。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0afd05599aea445855e2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学校可以通过鼓励学生提问、评估证据来培养批判性思维。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b589762853e39ef71063": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "用户应保护隐私，并在网上分享信息前核实其真实性。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "931c6a433d554c2ae1a7": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "政府和公众应共同努力实现……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "173318c2bd2489e890b6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "明确的目标、持续练习和及时反馈能让进步更容易实现。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ddeb11d9e9b0186a3584": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "总之，……很重要，因为它同时影响……和……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e02fb9225b4592701737": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "因此，我们不仅要认识问题，还要采取行动。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "41ed28a2fc5896359484": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "有了明确目标和持续努力，人们就能稳步进步。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6da881e9349208e28f97": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "目标不是避免所有困难，而是培养应对困难的能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "840ac68d64fabb0b1406": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "如果明智、负责任地使用，……可以成为有价值的工具，而不是问题的来源。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c4982be0793eeeedc82f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "归根结底，真正的进步取决于把良好愿望转化为具体行动。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ada750e3f8464e9e1fd6": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "实践；反复练习",
+    "promptContext": "这里指通过反复训练提高熟练程度，通常不可数。",
+    "otherPos": "v. 动词（美式英语，也表示练习）",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/practice"
+  },
+  "00bca935179a72778090": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把理论付诸实践",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "fa4ee7c1a5f29296c096": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "实践经验",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "58f2a2f06fb7f7c78a66": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "亲自动手获得的经验",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f17224b8eb4cde0abc3d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "实用技能/实践技能",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "62428be089bda3e61bf7": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "社会实践",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "8273625131d683b9a645": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "实际应用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "da31012c40330e7e2153": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "实施；落实",
+    "promptContext": "这里指把政策或计划付诸行动的过程。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/implementation"
+  },
+  "b42f3b4930d2b7be71c3": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "执行计划",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "30511d49a740e111a39b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采取切实措施",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e97469619c0d7aa7bf47": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "好处；益处",
+    "promptContext": "这里指某种做法给人带来的有利结果。",
+    "otherPos": "v. 动词：使受益；受益",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/benefit"
+  },
+  "7db0558a5cdaa5ff8773": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "优势；有利条件",
+    "promptContext": "这里强调与其他选择相比拥有的有利条件。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/advantage"
+  },
+  "d0e8803ab2e7a7a7e1c5": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "积极影响",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "2d159e35470f67752a66": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "实用价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "dd189a1999a711d24f77": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "给……带来好处",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8fab69a79137251e396b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "对……有益",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "65d33f4a829468aa50d5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "有助于、促成",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "80faec20f36751679319": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "让某人更容易做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "cde41fdd89fd8509ded7": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "开阔视野",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "98f7cd1c216f442ef738": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "建立/增强信心",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e50843fcb448e2c0fc7c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "改善生活质量",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f55b1e61884019a9afc5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为……打基础",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "28c03d30bb4ff66961b9": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "不利条件；劣势",
+    "promptContext": "这里强调与其他选择相比处于不利地位。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/disadvantage"
+  },
+  "a4234d9e2e1c194f91d2": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "缺点；弊端",
+    "promptContext": "这里指某种方案或做法本身存在的不足。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/drawback"
+  },
+  "a9115593f09d6c157812": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "负面的一面；不利方面",
+    "promptContext": "这里指便利或好处背后不利的一面。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/downside"
+  },
+  "f86e4b17a89f8d27fad4": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "局限；限制",
+    "promptContext": "这里指方法或能力不能覆盖的范围。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/limitation"
+  },
+  "2c6ef0f0d0e4cc6e9c15": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "风险；危险的可能性",
+    "promptContext": "这里指某种坏结果发生的可能性。",
+    "otherPos": "v. 动词：冒险；使遭受风险",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/risk"
+  },
+  "2fe0781b933e2a454c8b": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "潜在危害",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "deaeed1236c44618921d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "对……过度依赖",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "5d13e04fd93bd7d1a732": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "逐渐削弱；损害",
+    "promptContext": "这里指反复打断逐渐损害专注力。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/undermine"
+  },
+  "3e66ba098b3789d68366": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "削弱；使变弱",
+    "promptContext": "这里指抄答案使独立解决问题的能力变弱。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/weaken"
+  },
+  "fe95f839ad7e35e1b34b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "以牺牲……为代价",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "99758dda1bac1678e32b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "弊大于利",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6e7081855320a7de9f23": {
+    "pos": "clause",
+    "posLabel": "状语从句",
+    "promptMeaning": "如果不加控制",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "条件或时间状语结构"
+  },
+  "2b35ed6944dd2e8f7462": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "改善；提高",
+    "promptContext": "这里强调使原有的技能、质量或状况变得更好。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/improve"
+  },
+  "2cd6f936b05db9d3e874": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "提升；增强",
+    "promptContext": "这里强调提升能力、质量、价值或理解程度，语气较正式。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/enhance"
+  },
+  "ca4264faf5970fc613d8": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "提振；明显增强",
+    "promptContext": "这里强调小小的成功明显增强信心或动力。",
+    "otherPos": "n. 名词：提振；推动",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/boost"
+  },
+  "363256bd153813bc7b3e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "促进；推广",
+    "promptContext": "这里指推动合作、发展或某种理念。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/promote"
+  },
+  "e49b5c7a9e738d485bc7": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "提高；筹集；提出",
+    "promptContext": "这里可用于提高意识、标准，或筹集资金、提出问题。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/raise"
+  },
+  "e20a548f23fa36bc8d5b": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "增加；使增长",
+    "promptContext": "这里强调数量、比例或程度变大。",
+    "otherPos": "n. 名词：增加；增长",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/increase"
+  },
+  "0e617009b3fe47843132": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "加强；巩固",
+    "promptContext": "这里强调使已有的关系、能力或体系更牢固。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/strengthen"
+  },
+  "947726dd6318753268f3": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "培养；发展；开发",
+    "promptContext": "这里强调逐步培养技能、习惯或思维能力。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/develop"
+  },
+  "e40dfff1a71eb7baf65e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "推进；促进进展",
+    "promptContext": "这里指推动科学研究或技术向前发展。",
+    "otherPos": "n. 名词：进展；进步",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/advance"
+  },
+  "7fef9479c8bc5a3c8689": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "升级；改进",
+    "promptContext": "这里强调提升设备、设施或系统的等级。",
+    "otherPos": "n. 名词：升级；改进",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/upgrade"
+  },
+  "7baef513d86be18f6ca7": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "完善；打磨；改进细节",
+    "promptContext": "这里指根据反馈进一步打磨想法或方法。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/refine"
+  },
+  "15719127b3dd9951bcf1": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "使最大化；充分增加",
+    "promptContext": "这里指尽可能增加机会、效率或收益。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/maximize"
+  },
+  "9c3f2b071499f817a4fc": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "一个主要原因是……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "d7368877e209ac13992a": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "这可以用……解释",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "0eb22845ea91e1c77da9": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "这一趋势背后的主要因素是……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "194f0753e7de6d138b68": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "这主要是因为……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "b01289582cf8ad5ede5e": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "由于……（后接名词/名词短语）",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "1fd02ae3d1dd3bb36b9a": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "由于……；作为……的结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "60f69e61056b9b4f4301": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "与……密切相关",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9c9ae25e1ec6f1116ce4": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "源于……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1642a4b869df3b632c60": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "由……推动",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "45af2ce6d24a0d2b3a1f": {
+    "pos": "adv. phr.",
+    "posLabel": "副词性短语",
+    "promptMeaning": "因此、结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "在句中作状语，衔接上下文"
+  },
+  "c04ce10a409098610b70": {
+    "pos": "adv. phr.",
+    "posLabel": "副词性短语",
+    "promptMeaning": "进而、反过来",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "在句中作状语，衔接上下文"
+  },
+  "b6379e8c49ec567badac": {
+    "pos": "adv.",
+    "posLabel": "副词结构",
+    "promptMeaning": "从而……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "引出前述行为造成的结果"
+  },
+  "6ab78d07cb97ea1bf3f5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "导致；引起某种结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f2f1d6af914f9b013e7a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "产生影响",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "3586469b12db82e87ce4": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "对……产生持久影响",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "a3c3a0154c3e340e8b07": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "带来变化",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "938a4188dcdc80cc2aa9": {
+    "pos": "adv. phr.",
+    "posLabel": "副词性短语",
+    "promptMeaning": "例如",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "在句中作状语，衔接上下文"
+  },
+  "06384f99543c9675fe98": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "以……为例",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "55ec467690c242307e80": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "一个典型例子是……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "e4a342ddfc5c2f338be3": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "这可以从……看出",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "a9548625bfd3487878d1": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "在我自己的经历中",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "33c13207ad04886abd8c": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "我曾有机会……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "64c22bdc3b182a08ac43": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "我从这次经历中学到……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "d6b76177fa63e7e3380e": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采取有效/切实措施",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c87f0953df3a331c318b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "解决根本原因",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8b34e83d06c05928b1f9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "一步步处理问题",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5c12a0b3a2897ba05c63": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "设定清晰、现实的目标",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "25090ff9710e514ebfe2": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "制定明确规则",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "7d8bfa514b5bba41cbff": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "提供指导和支持",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d1db90d30238019fbef0": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "提高公众意识",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "7f25940177a73e375c06": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "鼓励积极参与",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c8cca03f72aaf709b34d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "加强监督",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "ee3143fb48ff68e28e28": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "定期评估结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "cbfe42c175199d44128a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "平衡 A 和 B",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6dac1009bea04d276cd0": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "作出有依据的决定",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "a3b142af6e97cfc3bb23": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "使用；利用",
+    "promptContext": "这里表示使用工具、资源或方法。",
+    "otherPos": "n. 名词：使用；用途",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/use"
+  },
+  "e9f7b9b5823a3299c38a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "充分利用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "0937c1a1dde026b320c1": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "利用机会",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "354bf1a2ad02220a6409": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "应用于",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "236d2ec8895eb4d01341": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "广泛应用于",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d1efed16a5431ebccdb6": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采用某方法/政策",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "409f813a6a18b0ba0c0c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "用作、充当",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1bf7ad1f9960eb816902": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "发挥作用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f8b017c0f035bdb4210f": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "作为工具",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f27a37e8c5a75151ed33": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "促进发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4031496db7bd9950728b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "推动合作",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6737d0183c62c4559665": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "改善生活",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "3b61f06b9ac2e363539c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "改善交通",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "df4d7a9153a62f783c78": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "提高效率",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e7d9458cd68e77caca08": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "带来便利",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e28dc58053dc4e0f3d98": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为……作贡献",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "57b61f43c26a38562824": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "对……有重大贡献",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "caee93fac225e259e4b9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "提供服务",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e1ff12d06f6ce294d80c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "使……受益",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6d500e407c675ba0589a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "建设基础设施",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4972f6b6e7ff520d9ef5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "建造一座建筑物",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "ae62d5c4bc356cba5116": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "建立体系",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "05c882820cdcefe77d2b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "研发技术",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1523f9ad29c51035975c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "实现目标",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "0fd97cc738191167698d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "实现全球覆盖",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "316ee292295c8423fe35": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "覆盖某地区",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "40989e65e2ddff376b1d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "提供高精度定位",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f2eb720a543b3d07c16a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "远程操控",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "267883b0805f75031b6f": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "连续运行",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "909ca0096d519dcf94ab": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "反映；体现",
+    "promptContext": "这里指习俗体现当地的价值观或特点。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reflect"
+  },
+  "a5d94acd43a4f2675006": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "展示；证明",
+    "promptContext": "这里指通过成果展示能力，或用证据证明观点。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/demonstrate"
+  },
+  "dca17a4c1d85eec2e05d": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "象征",
+    "promptContext": "这里指花朵象征希望、坚韧或纯洁等抽象含义。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/symbolize"
+  },
+  "3ff2fc28b43328e48ba1": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "体现；具体表现",
+    "promptContext": "这里指故事具体体现坚持不懈的精神。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/embody"
+  },
+  "05cf1f4477c80ef510a5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "传承文化",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "bd2e31004bed78b496b8": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "保护文化遗产",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9248574320823b80b315": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "保护自然资源",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "eda28f158dca7bc4498c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "以……闻名",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "43225db2a34df174d73b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "被视为",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "51ef92e593e6bf7308c9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "表达祝福",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5ceb9997e8be9892c2b2": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "随着……的发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "48caabe333930d5c744e": {
+    "pos": "clause",
+    "posLabel": "状语从句",
+    "promptMeaning": "随着生活水平的提高",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "条件或时间状语结构"
+  },
+  "499e3d08cfeb02f2e508": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "位于中国东部/西南部",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d8f740409162a9c4be25": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "有悠久历史",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b914dee94b3f5057e650": {
+    "pos": "correlative",
+    "posLabel": "关联结构",
+    "promptMeaning": "不仅……而且……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "连接两个并列成分"
+  },
+  "58f5426a3b00a1b0d875": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "使某人能够做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9c09afba7edd76430dda": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "使做某事成为可能",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "af6c49b643b3528538c0": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "由于……，……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "219972890378f934d57f": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "这使得……",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "5df9e53ea91bf8631c0d": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "在过去几十年里",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "0e6fd0141cc2a9c38034": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "近年来",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "22b5658b3fcbb0e5d121": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "至今仍在使用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6cadfbfebcc1cfd4b266": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "对……产生积极影响",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "10128c43643c965de8ac": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "在……方面取得显著进展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4e90057a4066f1f4baa4": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "中国传统文化",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "bcfb4bcb0cb81f71aea0": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "文化遗产",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "46a21cec0e0909a398ad": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "文化象征",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f1216519db8162f4e0d5": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "艺术价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "bd737d2fbf8011db4f05": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "传统习俗",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "fcb5293c2cc9f1bebe56": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "婚礼仪式",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "3fe7c5207ab8760d43f2": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "书法家",
+    "promptContext": "这里指从事书法艺术的人。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/calligrapher"
+  },
+  "4857fab6b14d9839474c": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "山水画",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "a2f9f99745b3735de410": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "花鸟人物",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e29a7f31cac05abc97e1": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "扇子",
+    "promptContext": "这里指中国传统工艺中的扇子这一实物。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/fan"
+  },
+  "9b68958b098df10590cc": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "非物质文化遗产",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "6ba9def0c31aacb94f31": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "传统节日",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "23a3eef088f83087b2d4": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "传承传统",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1100e3dcdbdfadef28fb": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "体现……的价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f8d9f93899fc2c1b861d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "科技发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "bfb492a0664047cebd33": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "科技创新",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "3504457d229ea7b3305d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "人工智能",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "6ad9b290569e29f40134": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "数字技术",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "d35e3c3f498169851e2f": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "卫星导航系统",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "cd0e46345b7cd6f10529": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高精度定位",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "31888781f38c6f8b50cf": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "中国航天事业",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "5be3467b5bd8b60099ac": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "空间站",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e7ae8035bad7bf1b143a": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "太空探索",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "8928a3c9c80e4126ff28": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "技术难题",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "6d65ed5c750019a199c6": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "自动化",
+    "promptContext": "这里指港口或设备用自动系统运行的方式。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/automation"
+  },
+  "c6a650c9ad57fcf092ca": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "远程控制",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "94c65d4d4757539107bb": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "研发系统",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "0f491cef212d10e4ff8a": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "科研成果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "1b0b7f174b1bd81c2be2": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "独立思考",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "54477266a352f8043ceb": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "数字素养",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "74ddf38c4a74a9176b4d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "信息来源",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "4e6643f0345c0f4c5071": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "虚假信息",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "9fec08e4574bcb96d535": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "基础设施",
+    "promptContext": "这里统指道路、交通、能源等基础设施，通常不可数。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/infrastructure"
+  },
+  "427d503e8501abdf6d36": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "基础设施建设",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ebc9b4c218acac6f9e16": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高速铁路",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "7769fdc26a9b0faa383e": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "交通系统",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "b88680bf829920e30553": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "深水港",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "278e6c9001d9fa40aee3": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "航运中心",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "2ff68bd87fcd203b39f8": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "港口自动化",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "486e4855afadd7dcc5d3": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "码头管理系统",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "7722527f7c51ea54f405": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "大型设备",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e3f0d25bc63e89d1b4d7": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "劳动力成本",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "4185cec3c2cbeb0d7616": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "碳排放",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "8cb7f3a686af7eeafaeb": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "交通便利",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "478a98ccd1805ca41656": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "缩短旅行时间",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1650c5f80a1238300472": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "连接两地",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4ca284b98d19caa4ca16": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "当地居民",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ae46c44df92565ceacbd": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "经济发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "73a11e71da501a912d7b": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "区域合作",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "b753648917ad3526c6c1": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "经济活力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "51377abf36d03b10690c": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高质量发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ffd31760b48f5599bb18": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "生活水平",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "cf4bb22c0daa38a7f1dd": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "生活质量",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f1495be05f7efe5472ab": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "公共服务",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "1f88270d6aacadeac219": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "当地社区",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "084a4cb7f1b772e43a5f": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "老年人",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "d54a505455bce4a892e6": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "养老服务",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "581199af29673eb99b19": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "社区食堂",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "9f1489c8f88ba25e8b78": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "上门送餐",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e3a6b81efd986fc2052f": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "环境保护",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "570dd38dc5baf3112a7c": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "生态系统",
+    "promptContext": "这里指生物与其生活环境构成的整体。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/ecosystem"
+  },
+  "2a8140554c066f3993a4": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "可持续发展",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "18df9af482ffcfdf4207": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "贫困人口",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "30dca6990fbb7948078f": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "减贫",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e2dd932e7e317071a0af": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "基础知识",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "debcb50a1c631ccc5399": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "打下坚实基础",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b13374d3ac7d75434043": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "学会如何学习",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5cd04c418aaaa876b2e1": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "课堂知识",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ea0c12ee26aefaa1053a": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "学术表现",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "31381454ace5557c362c": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高等教育",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ce73e0328ac0965173bb": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "课外活动",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "7f9513bd95bc679620ac": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "专业知识",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f7f6735a07ca42ba1c62": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "专业技能",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "aed7e01a3eb8634a524e": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "实习；实习期",
+    "promptContext": "这里指学生在真实工作岗位上积累经验的阶段。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/internship"
+  },
+  "621dde80baca36db38e4": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "职业准备",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ca5a6d406e62fb7a0af6": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "求职要求",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "e27b3b26a0eee5057362": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "职业规划",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "8579ec4b0bf19e161d92": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "就业能力；就业竞争力",
+    "promptContext": "这里指具备获得和保持工作所需的能力。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/employability"
+  },
+  "83366499299704fbf384": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "工作场所；职场",
+    "promptContext": "这里指实际工作的场所或环境。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/workplace"
+  },
+  "39fdf844a55f2a02fa3b": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "批判性思维",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ba9e1f570870fa7f2879": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "解决问题的能力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "cf95421898a6b0cd3aaf": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "沟通能力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "686f34552cee3bc3c46d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "团队精神",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "691f9e21106363b35e98": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "时间管理",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "9678cab583df2fb916f5": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "自律",
+    "promptContext": "这里指约束自己并坚持计划的能力。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/self-discipline"
+  },
+  "2ea845c5879e4b63a927": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "设定现实目标",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "975eb38fd9b6a8c800af": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "创新发挥关键作用。可改写为 *Technology plays an important role in education.*",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "eda8140db6b40bd70b68": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "鼓励创造力/创新。可用于教育、科研、企业管理。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "117b4c210f1d4cb985ea": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采取可行措施。可用于政策建议。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "178bc781a13af599f895": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为未来挑战做好准备。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d505c535ab5be14c4ba3": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "尊重他人。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "08fe66163ef4d8075211": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "理解不同观点。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e57f8f9382f6b03201dd": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "伸出援手。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "db330536f19bede29939": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "建立信任与友谊。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c21bf071e5fab4179465": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "体谅他人。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f8c9bbca13fe65e81234": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "学业与课外活动。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "666f35b6e7a25a926bf1": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "工作责任与个人兴趣。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "df446d7b8c4c8a9585ef": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "留出时间休息。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "3ae2aef01457eb7eb2b6": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "保持健康的生活方式。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "ef0b5beb372704c3270d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "责任感。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "03e8419238a7628ac633": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "履行责任。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "2067cf22e8b5fdf59e86": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为社区作贡献。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d0b6074320276582c86d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "在社会中发挥作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "afed99d5f01e421b1689": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "关心家庭成员。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5a3b24ade0e9dfd81e7a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "迎接/应对挑战。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "bf21b8be56be295f852d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "培养有效沟通能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1e36e8d79ae17caec949": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "清楚表达想法。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "a61c3ae03d8248029c0a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "积极倾听他人。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c5a488a18b1126eef3d9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "创造性思考。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "3b293818928bdec98c9b": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "数值从……上升/下降到……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "1a14baf1b874134e46ed": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "图表说明……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "3276cbc61f39a3384a37": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "在……方面取得显著进展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c5767ae1429107674299": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "改善生活条件。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b7bf0a90c6d6e3c7255c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "识别虚假信息。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e57a4b71d988b758ead8": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "核实来源的可靠性。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "052f9e5467f5c4b09fb2": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "允许孩子自己作决定。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f1eda3aec95188ecf377": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "处理/解决这个问题。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e403e435a501e663b922": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "适应快速变化的世界。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "40141ef82379d333fa63": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "培养团队精神。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "a95aa9a6fb239a5913a2": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "向其他团队成员学习。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1dec1cf9f0d8774c3b57": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "帮助有需要的人。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "16ea643679f063f219f9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把善意传递给他人。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "99ff23719193a6ea86c6": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "掌握基础知识。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9fa5a486a4eaba37d4cd": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为社会作出重要贡献。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c707005dbdce71d1608a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "培养独立性和自信。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5af097fcd123a1ef8bb6": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "从错误中学习。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c50e09a5cb49330667b0": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "对基础知识的扎实掌握。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "ff5606726c811fa24c54": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "设定现实目标并坚持计划。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "f443ed2691197d8dd47a": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "实践能力/实际胜任能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "a8268540aad01eff283e": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "打下坚实基础。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9e26cd62cdb2fb24b9e4": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把抽象知识转化为实践能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1051ad58496a2cd55738": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "抓住机会充实技能与经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "82ab01a31b9c6f104443": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "更好地为未来挑战做好准备。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "a77c97e9b7e720feb226": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "推动人类文明的力量",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "65ff1abba05fbde5dcd5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "推动社会进步",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "第三人称单数"
+  },
+  "15067bc50306456f9ddb": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采取具体措施",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "0ab8083e4d4adfd8d71c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "保护知识产权",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b5c8000313c0fa4164dd": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "相互的交换",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "62b791d3dfa5c49ade93": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "耐心倾听",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "过去式／过去分词"
+  },
+  "1c702d7d89c65b2999cf": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "肯定每一份贡献",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "过去式／过去分词"
+  },
+  "f2dbbd4e38cc08fd2aed": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "相互尊重的良性循环",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "2f76eb41783963972bfa": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "平衡工作与休闲至关重要",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "4ee78c807f7bc5f6e574": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "明智、合理的平衡",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "8ffac1703d1afbdb93e9": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "设定明确界限",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "54cc56fb89681341646d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "健康而充实的生活",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "4a403d19942be15ce597": {
+    "pos": "adj. phr.",
+    "posLabel": "形容词短语",
+    "promptMeaning": "不可或缺，而非可有可无",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "描述性质或必要程度"
+  },
+  "68e79f2f8129282dd8b5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "为公共利益行动",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "64e55ba5bc40ad842228": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "培养同理心、自律与领导力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e916285c89c0e51ec09c": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "公共信任",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "7bb91a3e25a3f1e6d7ec": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "以原创方式思考",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "74380d1e1d5789389f7b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "让学习更有吸引力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "第三人称单数"
+  },
+  "0a61c975c20973855390": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "磨练解决问题的能力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "cbcc75816165f2873585": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "必需品/必需之事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f1ddf88a125a00d4b54c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "判断网络来源的可靠性",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4912ffa8d6a69bc36e59": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "区分真实新闻与虚假消息",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8fae1d49215f9589ee75": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "值得我们认真关注",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "第三人称单数"
+  },
+  "d1f3be618ab46d840c88": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "吸引眼球却毫无根据的说法",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "736831be7d7f32533a76": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "多样且高效的方式",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "3053fefa82b26f118405": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "重塑了我们获取知识的方式",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "过去式／过去分词"
+  },
+  "3552cb2ce5d0c99f3ab8": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "点击一下即可",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "后接名词成分，或在句中作状语"
+  },
+  "9d2d1214111711ec038e": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "独立思考的辅助工具，而非替代品",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "5ee67cf1e2151622c038": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "扎实的基础知识",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "7d453b197cc0e8ef808b": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "坚实的基础",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "745394f684ca7346dd6c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "掌握了这些基础内容",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "过去式／过去分词"
+  },
+  "cf36cec174a15a9a6f08": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "绕过基础走捷径不会有好结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "02e4d2a7397ec188001d": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "独立学习能力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "1c9f30c6eaa8ca3dd1c6": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "适应不断变化的职场",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "9fe54a34373158e5d58c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "批判性地判断信息",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5e68aec19b3cffc420ea": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "在实习中脱颖而出",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "bec328ac8df6a91d21b7": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "持续努力以实现目标",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8615c1b165821a917ef4": {
+    "pos": "clause",
+    "posLabel": "分句／句架",
+    "promptMeaning": "每一次小成功都会推动下一次",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "包含主语和谓语的表达"
+  },
+  "bcf3812e5000e6008ce7": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "可实现的步骤",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "23d4cf78d8ce56bb4b4d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "打下坚实基础",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "第三人称单数"
+  },
+  "3bf25377abe5c3c8a3f0": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把抽象知识转化为就业能力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "第三人称单数"
+  },
+  "678ce016460120e31e90": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "抓住每一次机会",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "7505e55085be9d619c5d": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "实现自我价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "5740d8f9ea1f4e7e1a42": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把才华转化为实际贡献",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "28a97c990568d884c9ef": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "主动抓住机会",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "395106539f73ef6c14e4": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "个人努力与时代发展相结合",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "0041f8604706db218604": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "前所未有的旅游热潮",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "6601936cb243d51c5074": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "对经济作出重大贡献",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "过去式／过去分词"
+  },
+  "9a96b34fe0f62db4376a": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高速铁路",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "add71745e407a0438bb1": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "象征坚韧、纯洁与优雅",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "48868c9b0e1373b20567": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "促进区域一体化",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6865236715cd27173d58": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "最南端的省份",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "096979bad7c87f183630": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "世界屋脊",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "b3e771899777c9085af6": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "极高的艺术价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "a4c0e6dff9dc1bdfbbaa": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "全球覆盖与高精度定位",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "cc72537afac0b1bef7fd": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "一种传统美德",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "75e4dd0b4f7994a93579": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "促进；推广",
+    "promptContext": "这里指推动合作、发展或某种理念。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/promote"
+  },
+  "bbbb24df92b8e74b6781": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "改善；提高",
+    "promptContext": "这里强调使原有的技能、质量或状况变得更好。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/improve"
+  },
+  "4e4a174b968da430a29d": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "提高；筹集；提出",
+    "promptContext": "这里可用于提高意识、标准，或筹集资金、提出问题。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/raise"
+  },
+  "3e638a1188557fb372c1": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "建造；建立",
+    "promptContext": "这里指建设基础设施或建立体系。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/build"
+  },
+  "21be415668fb0037bf02": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "保护",
+    "promptContext": "这里指使文化遗产、隐私或环境免受损害。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/protect"
+  },
+  "2e700d3050855fca0fd8": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "使用；利用",
+    "promptContext": "这里表示使用工具、资源或方法。",
+    "otherPos": "n. 名词：使用；用途",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/use"
+  },
+  "a8968b427d1c5de2366f": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "反映；体现",
+    "promptContext": "这里指习俗体现当地的价值观或特点。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reflect"
+  },
+  "c0ab5c9d9507df866976": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "带来",
+    "promptContext": "这里指使某种变化、好处或结果出现。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/bring"
+  },
+  "152dbdb28a419c4588fd": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "减少；降低",
+    "promptContext": "这里指减少数量、程度或风险。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reduce"
+  },
+  "0f651559a37ab529b32d": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "吸引",
+    "promptContext": "这里指某个地方或事物吸引游客或关注。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/attract"
+  },
+  "8e8610e8691eaea951fd": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "象征",
+    "promptContext": "这里指花朵象征希望、坚韧或纯洁等抽象含义。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/symbolize"
+  },
+  "90aed6c3cab135978904": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "传承",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b42a65143f69492a4d81": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 位于 Y 的南/北部。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d6ba6a20f0729aef3516": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 占地……平方公里。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "85ada1c744007912e827": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 有……多年的历史。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "baedce597a9d065da09c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 被称为……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ab352782a3bb82aff98c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 以……闻名。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "856ed6a9e809008fdb80": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 体现……的文化价值。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8fcc1e75a64d024e7b8f": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 被广泛应用于……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4c49b7cb03e0371528c7": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 促进了……的发展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "421827c5f9e2b543e15b": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 改善了当地居民的生活水平。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2ca2ff3e13a51b111852": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 给当地居民带来便利。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1a560cefae04b2821442": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 缩短了从 A 到 B 的出行时间。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "868b7d6aad0f48703200": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 为用户/居民提供……服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0857be273ab88be1508e": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 每年吸引大量游客。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "24852cb059df43c83f2f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "已采取措施保护当地生态系统。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "beb01c208e78f4d8fc3f": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 在……中发挥重要作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "db30c5100b8f1c1c6fc3": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "……，从而改善……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f06fe77503548a64de5c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "X 以……闻名，它……。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "48328c0b7b54de217bee": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "……，吸引国内外游客。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b25744e8717c4e0aa7a7": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "位居……之首",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "ffa594e228f5693315d4": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "源于",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4cd19855b99428040c81": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "不畏严寒",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "e997da61cc0d4c99878a": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "迎着风雪绽放",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "658aafbae5c60d968039": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "获取灵感",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1dbedf3e34a765fc2adb": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "定为市花",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "16141c4c838587b92892": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "占地",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "94d545bd97f867cb5f63": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "平均海拔",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "f08640f9b95f4ea38710": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "生态修复",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "68c78b21089f3ae2466e": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "城市治理",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "80f16fa27f144898ac03": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "高品质生活环境",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "3f2b567fec635bd7f056": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "资源循环利用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "675b26692acf28486b37": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "节约型社会",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "17c3a324486be8f84436": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "培养；促进形成",
+    "promptContext": "这里指逐渐培养创造力、信任或独立性。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/foster"
+  },
+  "2f1fd9f37ede108fb49f": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "培养；养成",
+    "promptContext": "这里强调有意识地培养习惯、品质或能力。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/cultivate"
+  },
+  "e46f92236739147cf70e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "优化",
+    "promptContext": "这里指调整流程，使资源和方法发挥更好效果。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/optimize"
+  },
+  "89059909fb111819054b": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "取得进步",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "ddb27c3f15c4f53854f2": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "做出改善",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "36ada438a5d5f0acad59": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "取得进展，使用范围相对窄",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "2e57a032cdd10dec9769": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "实际的；实用的；实践的",
+    "promptContext": "这里用于修饰技能、经验或措施，强调实际应用。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/practical"
+  },
+  "ec447b69f95f087e53d7": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把……付诸实践",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "eff00c78e5d26a8c30ad": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "把 A 应用于 B",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "1fe289205936c3fdb611": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "应用；用途；申请",
+    "promptContext": "这里指技术的应用，也可表示用途或申请。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/application"
+  },
+  "f9bb818d84838e08127b": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "实施；执行",
+    "promptContext": "这里指执行已经制定的政策、计划或策略。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/implement"
+  },
+  "379952c5a7a5f6b7393e": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "开展、执行",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "85ca6d6d291c070dbcb2": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "开展；进行",
+    "promptContext": "这里与研究、调查或实验搭配，表示开展这些活动。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/conduct"
+  },
+  "be6bdfe81ec4a456a537": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "执行；实施",
+    "promptContext": "这里强调按计划或指令把任务执行到位。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/execute"
+  },
+  "429bf78dbd9b95352ba7": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "优点；长处",
+    "promptContext": "这里指某种方法或方案值得肯定的优点。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/merit"
+  },
+  "e6b88623f7209b6c11fc": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "长处；优势",
+    "promptContext": "这里指某个人或方案最擅长、最有优势的方面。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/strength"
+  },
+  "f1c4a3fa6b42c06b3750": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "积极效果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "74efb70e3fbeacf4abb8": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "积极影响，常比 effect 更强调影响力",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "cd42404d52ad55ccfa9a": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "价值；用途",
+    "promptContext": "这里指学习或实践带来的价值。",
+    "otherPos": "v. 动词：重视；珍视",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/value"
+  },
+  "66dd231befc8120d323e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "获得；积累",
+    "promptContext": "这里用于获得经验、知识或信心。",
+    "otherPos": "n. 名词：收获；收益",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/gain"
+  },
+  "bdd418c53bfedbed7d7c": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "很有价值",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "54ea377d681b95819ccc": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "证明有用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "448545189b00ee87d2fd": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "弱点；不足",
+    "promptContext": "这里指需要识别并改进的薄弱之处。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/weakness"
+  },
+  "6ef946775e978754c68e": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "缺点；不足之处",
+    "promptContext": "这里常指个人、制度或方案存在的不足。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/shortcoming"
+  },
+  "a569b9b2250fe3236367": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "威胁",
+    "promptContext": "这里指可能危及公共安全的事物。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/threat"
+  },
+  "f294c1137c1289fa518e": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "负面效果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "eda5b0766b6d42b53ad2": {
+    "pos": "n. phr.",
+    "posLabel": "名词短语",
+    "promptMeaning": "不利影响，较正式",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "整体用作名词成分"
+  },
+  "9f82f7b375f4aa1bd7d5": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "代价；成本",
+    "promptContext": "这里指为获得某种好处付出的代价，也可能是隐私等非金钱代价。",
+    "otherPos": "v. 动词：花费；使付出代价",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/cost"
+  },
+  "9d49564572189b186e65": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "权衡；取舍",
+    "promptContext": "这里指为得到一方面的好处而牺牲另一方面。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/trade-off"
+  },
+  "34a989eb3e220e6b0b19": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "重要的",
+    "promptContext": "这里用于修饰因素、作用或问题，表示值得重视。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/important"
+  },
+  "e61db885bd6e7f403a7b": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "重要的；显著的",
+    "promptContext": "这里常形容明显的进步、变化或重要贡献。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/significant"
+  },
+  "a55751cecd11bad874ef": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "必不可少的；必要的",
+    "promptContext": "这里表示某项条件是完成事情所必需的。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/essential"
+  },
+  "26dd7517f5ecee31f5df": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "关键的；至关重要的",
+    "promptContext": "这里强调某个因素对结果起关键作用。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/crucial"
+  },
+  "39ca0c269f8be5cbe8ac": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "至关重要的；必不可少的",
+    "promptContext": "这里强调某个条件对成功或生存极其重要。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/vital"
+  },
+  "8042c6d16511690e7d32": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "不可或缺的",
+    "promptContext": "这里表示某项能力或条件不能缺少。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/indispensable"
+  },
+  "bfba7033571d606f3c2f": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "关键的；批判性的",
+    "promptContext": "这里可形容关键因素，也可用于表示批判性思维。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/critical"
+  },
+  "c215cc7ced6a185b5bec": {
+    "pos": "adj.",
+    "posLabel": "形容词",
+    "promptMeaning": "基础的；根本的",
+    "promptContext": "这里指支撑后续学习的基本技能或原则。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/fundamental"
+  },
+  "a541d9ffcf213d688595": {
+    "pos": "prep. phr.",
+    "posLabel": "介词短语",
+    "promptMeaning": "非常重要",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "可在句中作表语或定语"
+  },
+  "d499630294fa95296f98": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "发挥关键作用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c14cdb19563cb1644772": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "解决",
+    "promptContext": "这里指解决具体问题或解开谜题。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/solve"
+  },
+  "d80c9bf910f144738ef9": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "着手处理；设法解决",
+    "promptContext": "这里指认真处理某项议题、担忧或社会问题。",
+    "otherPos": "n. 名词：地址；演讲",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/address"
+  },
+  "ceab38a5bea502d0387d": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "着手解决；积极应对",
+    "promptContext": "这里强调主动处理困难或挑战。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/tackle"
+  },
+  "a7f64bfc605e4f64fe82": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "处理，最通用",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "2bf562accf5b37b0b3f8": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "应付压力或困难",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "2e4d65166ca1411d011d": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "克服",
+    "promptContext": "这里指克服障碍、困难或恐惧。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/overcome"
+  },
+  "fdf09cdfc26cccf610ed": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "解决；化解",
+    "promptContext": "这里常用于化解冲突、争端或疑虑。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/resolve"
+  },
+  "b4d5a180d618df82acd3": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "预防；防止",
+    "promptContext": "这里表示采取行动，使错误或坏事不发生。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/prevent"
+  },
+  "4c7e98bfa0c750beb52c": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "减少；降低",
+    "promptContext": "这里指减少数量、程度或风险。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reduce"
+  },
+  "af4c9336aa257d8a4b30": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "采取措施",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8528058461899c6b3e79": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "影响",
+    "promptContext": "这里直接接人或事物作宾语，表示对其产生影响。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/affect"
+  },
+  "22fefa8cf4bda9184634": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "影响；左右",
+    "promptContext": "这里指习惯或环境影响人的选择或行为。",
+    "otherPos": "n. 名词：影响；影响力",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/influence"
+  },
+  "6f61f46c23a66607af75": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "影响；冲击",
+    "promptContext": "这里指技术或某种变化对社会产生的影响。",
+    "otherPos": "v. 动词：产生影响",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/impact"
+  },
+  "dcb576426a17b7df1390": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "效果；影响；结果",
+    "promptContext": "这里指某种因素带来的结果或作用。",
+    "otherPos": "v. 动词：实现；使发生（较正式）",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/effect"
+  },
+  "6a7ef1ed9f15c2f59ab7": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "导致；引起",
+    "promptContext": "这里直接接结果名词，表示引起某种后果。",
+    "otherPos": "n. 名词：原因；事业",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/cause"
+  },
+  "6a9733481118f8f05054": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "导致；引起某种结果",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "d98927794af5b99e4dd5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "导致；结果是",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "32b140c6ac8ebff59cfa": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "由……引起；源于",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "fbd34c5287828a8969a5": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "引起；导致",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "4dfbee4af4d5d7fc6805": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "带来；引起",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "7fd6d8591cfec069fc0e": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "帮助某人做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "c576802c3b4865ce2a56": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "使某人能够做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "2c70b107c1b4ab1ff152": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "允许某人做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "b3eb75d4c7e36dd81505": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "促进某事；使某事更容易",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "3f198ed03719f88a61a0": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "有助于某事；促成某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8f54d17e24f228631068": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "支持某人做某事",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "94da2a8f81aef5c7ea2c": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "增加；使增长",
+    "promptContext": "这里强调数量、比例或程度变大。",
+    "otherPos": "n. 名词：增加；增长",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/increase"
+  },
+  "ce2c7e0ce8d6b3ad2d8e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "增长；成长",
+    "promptContext": "这里用于描述经济、数量或能力逐渐增长。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/grow"
+  },
+  "8a2c1207d2295835e259": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "扩大；扩展",
+    "promptContext": "这里强调把范围、规模或获取渠道扩大。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/expand"
+  },
+  "49ce38807361e3feaabf": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "减少；降低",
+    "promptContext": "这里指减少数量、程度或风险。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reduce"
+  },
+  "0cb0cd181ee7643ada58": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "降低风险",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "26c745d91829007190ea": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "缓解",
+    "promptContext": "这里指使压力、痛苦或困难减轻。",
+    "otherPos": "n. 名词：轻松；容易",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/ease"
+  },
+  "66aacbee7cb9a4acf0b7": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "遏制；控制",
+    "promptContext": "这里指限制污染、开支或某种有害趋势。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/curb"
+  },
+  "c0137250ae5231065cd8": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "改善；提高",
+    "promptContext": "这里强调使原有的技能、质量或状况变得更好。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/improve"
+  },
+  "001689bc5ada24276d09": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "恢复；修复",
+    "promptContext": "这里指使生态系统、秩序或状态回到较好的水平。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/restore"
+  },
+  "1c6333509debf060200e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "显示；表明；展示",
+    "promptContext": "这里用于显示某种价值或结果。",
+    "otherPos": "n. 名词：演出；展览",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/show"
+  },
+  "a65dd3628de58bb9f3ee": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "展示；证明",
+    "promptContext": "这里指通过成果展示能力，或用证据证明观点。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/demonstrate"
+  },
+  "4932c716f725df5e480e": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "表明；显示",
+    "promptContext": "这里指数据或迹象表明某种结果或趋势。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/indicate"
+  },
+  "f2ec3e85b72ddfae1c31": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "说明；用例子解释",
+    "promptContext": "这里指通过实例说明问题或过程。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/illustrate"
+  },
+  "8cfc12e7f78033dc69ab": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "代表；体现",
+    "promptContext": "这里指某种事物代表一种传统或意义。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/represent"
+  },
+  "1a21765bd9737eea9b8b": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "象征",
+    "promptContext": "这里指花朵象征希望、坚韧或纯洁等抽象含义。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/symbolize"
+  },
+  "419a636ccc2aa55c7347": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "揭示；显露",
+    "promptContext": "这里指显示原先不明显的问题、需求或事实。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/reveal"
+  },
+  "dc2c5be187f6f31e70a8": {
+    "pos": "v.",
+    "posLabel": "动词",
+    "promptMeaning": "强调；突出",
+    "promptContext": "这里指突出某个问题或某种能力的重要性。",
+    "otherPos": "n. 名词：亮点；最精彩的部分",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/highlight"
+  },
+  "b5f90a96e680140d51e2": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "进步；进展",
+    "promptContext": "这里表示学习或研究取得的进展，是不可数名词。",
+    "otherPos": "v. 动词：进展；进步",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/progress"
+  },
+  "875b9380866e9d56e711": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "发展；开发",
+    "promptContext": "这里指经济、社会或某个领域逐步发展的过程。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/development"
+  },
+  "19c64195eb8f22c39b4b": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "增长；成长",
+    "promptContext": "这里指数量增加，或个人、经济的成长。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/growth"
+  },
+  "62a4a0e9fbff1ed4b03b": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "改善；改进",
+    "promptContext": "这里指让原有状况变好的过程或改进之处。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/improvement"
+  },
+  "a38bcf73d352e4c7ecd5": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "成就；成绩",
+    "promptContext": "这里指通过努力达成的重要目标或成果。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/achievement"
+  },
+  "6887e52b90cfca868519": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "成就；完成的成果",
+    "promptContext": "这里指完成任务后获得的成果或成就感。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/accomplishment"
+  },
+  "2142487324cdb6d8c504": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "突破；重大进展",
+    "promptContext": "这里指科学、技术或研究中的关键突破。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/breakthrough"
+  },
+  "a7b4dc56dac9faf3fec9": {
+    "pos": "n.",
+    "posLabel": "名词",
+    "promptMeaning": "贡献",
+    "promptContext": "这里指为社会、团队或某项事业作出的贡献。",
+    "otherPos": "",
+    "grammarNote": "标注本条考查义项的词性",
+    "dictionaryUrl": "https://dictionary.cambridge.org/dictionary/english/contribution"
+  },
+  "3dec05dafcbb79518341": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "向前发展/推进",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "6e42f860c4265bc1bd61": {
+    "pos": "v. phr.",
+    "posLabel": "动词短语",
+    "promptMeaning": "实现潜能",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "本条按所示形式默写"
+  },
+  "8b91894926d6fd2bcfa9": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "经常练习有助于学生提高写作水平。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ff7d2a4703842ada2a24": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实习有助于学生把课堂知识付诸实践。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "15a49e5e36b65dc685af": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生求职时，实践经验很有价值。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e1587fb80a12d2c3661a": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "项目工作让学生获得解决实际问题的动手经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "044f87504e4d1c71aa59": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应在毕业前培养实用技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0db3712be541d009699a": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "社会实践让学生了解课堂之外的社会。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2f260fae8feac7569cca": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "新技术的实际应用能够改善公共服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6815f50189e2adf48fc7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "一项政策的成功实施需要明确的目标和定期评估。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "674deaed6abe9608c805": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学校应执行这项计划并评估实施效果。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "297bebf7c88df85c81b4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "政府应采取切实措施减少污染。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "94ad3968557a4a484ec8": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生可以从定期反馈中受益。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1597dd7377b028eec6db": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "在线学习的一个优势是灵活性。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1a04e80503e7de791529": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "志愿服务能够对社区产生积极影响。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "51b2c8bf77fbc7cf6027": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字素养在学习和工作中都具有实用价值。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2323ee22a49a9b08260f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "更好的公共交通使当地居民受益。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "155cb4f4d9d20d7ac7ed": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "经常锻炼对身心健康都有益。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c6ae0549331295b9ce8f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "团队合作有助于更好地解决问题。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "7ae3860efe49c9e80a46": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字工具让学生更容易获取学习资料。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "052ec0e6a1f22dee8d8a": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "广泛阅读能够开阔学生的视野。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "09e1a63febc9ceed6da7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "完成一项困难的项目能够增强学生的信心。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "fd71561fcc899fdd964b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "可靠的公共服务能够改善人们的生活质量。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "33750d49c99519907e89": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "基础知识为进一步学习打下坚实基础。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "fd7836ac36216fafb248": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "在线学习的一个缺点是缺少面对面交流。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a9ff8aa96ae63c90be10": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "一个主要弊端是用户可能变得过度依赖技术。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cebad685d845e4bf5d18": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "便利的负面一面是个人信息被分享的风险。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "08b66ebf940896243192": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "当学生需要即时反馈时，这种方法存在局限。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cd72ac85edffe0fc330f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "看屏幕的时间过长可能危害儿童的健康。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4e07a9a030ac46ec9c7d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "我们应考虑传播未经核实的信息可能带来的危害。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c42b77faa092140b2ba7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "过度依赖人工智能可能削弱独立思考能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f3bfa80c3819432c530f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "频繁受到打扰会削弱专注力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c0d55dc8d11ab1867a5d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "抄袭答案可能削弱学生独立解决问题的能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e13082649295a0cd453f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "效率不应以牺牲隐私为代价。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bc9e2d48c543c6ffef42": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "过度保护可能弊大于利。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "223df8d09977dbb18759": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "如果不加以遏制，虚假信息会迅速传播。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a4e5148d9bfdc129f33d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "经常练习能够提高学生的写作技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "fa28819d93e28ca004e1": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "阅读不同来源的资料能够加深我们对社会问题的理解。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0b8ee1749a46c2291ce3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "积极的反馈能够增强学习者的信心。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "38b0d42558f95bf2b9b0": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "社会实践能够促进学生之间的合作。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8b15d752e38bb4442d4b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学校应提高学生的网络安全意识。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f75c90c2be1693b5ab42": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "网络资源能够让人们有更多机会获取学习资料。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b6915ef058727d25aba2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "团队项目能够加强沟通与合作。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d87fad65d44ead2f7537": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应养成认真核查信息的习惯。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "24802ffa68c120c24f5e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "创新能够推动科学研究。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "956f2b560bd9d940c68e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "城市需要升级公共交通设施。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "78b26894af2bba29ef0b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "反馈有助于学生完善想法。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "43ecc2f73a472cbc4bfb": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "我们应利用数字工具尽可能增加学习机会。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b47e3fa6a8dae46ba426": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这套系统被用于公共交通领域。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ce0cf076b3792bf9b52a": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应充分利用学习资源。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "79e3a69e8c968c43dc09": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "年轻人应利用机会积累经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "200bfa62f951e094e5ea": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这项技术被应用于交通管理。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9a050e56ac4078a8102b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这套系统被广泛应用于许多领域。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d82c84a37df48fb2b51d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这座城市已采取新措施减少污染。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "024e5e423d186dd8a02e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这座桥是一条重要的交通纽带。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "03d51b62969064c48ad0": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字技术在现代港口中发挥重要作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f2caffbd877c613d701f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "人工智能应充当工具，而不应替代思考。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a7add56341881c455cda": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "创新能够促进经济发展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "96da4a4c552e02ceaff4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "更便捷的交通联系有助于促进区域合作。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "616fb68a799f3ecc8a77": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "公共服务能够改善人们的生活。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "84ee89bc5aac3e0c3ffa": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这座新桥改善了该地区的交通。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "52b9187f5cbe2d2ac703": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "自动化能够提高运营效率。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "51248b7e6eb2f6c4a56d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "高铁为旅客带来便利。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0076418444bedca025a6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个项目有助于区域发展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f6470fa5fc5e72e2f3cf": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "科学研究为公共卫生作出了重大贡献。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "63892717055477b91e83": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这套系统为用户提供导航服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4bb0814bdba2236057d0": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个项目使当地居民受益。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "312d9df2db99eddc21dd": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个国家继续发展交通基础设施。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "419bf415dfe07ae433c2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这座桥建于七世纪初。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b5252a3cd639c0f003c2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "政府已建立一套支持养老服务的体系。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6f743fd51cda217aaa1e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "研究人员开发了一套新的导航系统。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "af80db2782efe5492fb2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个项目旨在通过长期规划实现目标。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "7af863f2e5af4ff9e42c": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这套系统已实现全球覆盖。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ce289f6d009a3622c421": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "铁路网覆盖了许多主要城市。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "06ddd369223a83b6c48e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这套导航系统提供高精度定位。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4e70fe0c1798c40cd604": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "大型设备可以远程操控。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b46c81160304051f445f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "港口的自动化系统能够连续运行。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "37eae3086f7c5b26d6b4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "传统习俗体现了当地的价值观。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "7413de8b7341aed8f818": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个项目展示了该国的工程能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ed90175429c9f5ed5e6e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这种花在中国文化中象征纯洁。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c5a5d9370b4e5f3f46e6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个故事体现了坚持不懈的精神。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "506ab7ff619190dad88d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "年轻人能够帮助传承传统文化。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "527df4d4fd00881b32cf": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "保护文化遗产很重要。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2ae10e5f2b98454aa88b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "我们应为后代保护自然资源。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1d1f8d01573ad0448274": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个地区以其优美的风景而闻名。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "db0df4f6ebb0e70cfb10": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "扇子既被视为实用物品，也被视为艺术品。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "51bcd5c47999e030b593": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "礼物常被用来表达美好祝愿。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4bb899ef312f02e45bc3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应为每周设定能够实现的目标。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "79efc5c38e921a688bdc": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "雇主既看重实践能力，也看重学术知识。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "402cf7db6ecd744511fb": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "社会实践能够成为个人成长的推动力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b0cd64636f210feeec08": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "创新能够推动社会进步。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ccf209da0e123b172e15": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "大学应采取具体措施提高学生的实践技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "20b1bb321a1d9283fd3c": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "公平的制度应保护知识产权。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "625fb5681dfb168f10f1": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "有效的团队合作依赖相互信任。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a4195a4b3e7c1ce41ca1": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应认真倾听不同意见。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e5c64f3fae656995c03b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "团队负责人应认可每位成员的贡献。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cffadb74719e633b7339": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "相互尊重的沟通能够形成尊重的良性循环。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b17e7143c9836c113db9": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应在学习与休息之间取得平衡。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ec9ac5c5150f1cee79e1": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "合理的平衡能够保护健康并保持工作效率。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "499852d3754eb6edb8c6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生需要为使用屏幕的时间设定明确限制。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bb3d71e648c61e724a72": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "经常锻炼能够帮助人们过上更健康的生活。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d078f17fae4e3c065da4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "批判性思维不可或缺，而非可有可无。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a67e94a9ad9c96c77955": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "公民能够通过志愿服务为公共利益采取行动。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cd719e90ea8781270d19": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "小组项目能够培养同理心和领导力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4e89b15a6dda0f44b0d1": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "透明的决策有助于维持公众信任。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d2154c1fa1f704b10fd7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应学会创造性地思考。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c2e463d94fcc3af2e07c": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实践项目让学习更有吸引力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "a5e2015d5bc4ae6f68e7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "真实任务能够磨炼学生解决问题的能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "423c62b7cf4d929c9f3c": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字素养是现代生活中的必需能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "523dbd6e5fd9410470aa": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应评估网络信息来源的可靠性。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1456c88f95225907228f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "读者需要区分事实与观点。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "46a516503cee9a4dc060": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "过度使用人工智能值得认真关注。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "7b55d1d72153eff35517": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "用户不应未经核实就分享毫无根据的说法。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "3bb90db39d8186ade4c3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "在线课程提供了多样且灵活的学习方式。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d8c6b1279cd70947f189": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字工具重塑了学生获取信息的方式。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bf30dd9c5c7d7547baca": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字图书馆让学生只需点击一下按钮就能获取资源。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8e39e310fb24f83bbe08": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "人工智能应辅助学习，而不应替代独立思考。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d779dfb10042df86a0d3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生需要扎实掌握基本概念。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "19563e7b6463417ae233": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "基本技能为今后的学习打下坚实基础。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "59a46b60a5849c28a465": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生一旦掌握基础知识，就能解决更复杂的问题。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "26125b30e35a9f3ff528": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "在语言学习中，走捷径往往导致基础不牢。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f5c8a7968ae28f9f8357": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "自主学习有助于学生跟上新的发展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "9cb7e70286e3da9a3c0b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实践经验有助于毕业生适应职场。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "402453baf7319d8451a4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应以批判性思维评估网络信息。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "5f0d60d2d266c11b4a30": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实用技能可能帮助毕业生在求职面试中脱颖而出。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f5401d6d399e662b0ca4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "进步需要持续努力，而非短暂的热情。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6c286c36deb29c21861b": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "小小的成就能够积蓄动力并增强信心。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c29d995087ee7bfd3302": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "把一项大任务分解成较小且能够完成的步骤。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "fb5c5e3119f5b2b4271d": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "相关课程能够为未来的职业生涯打下坚实基础。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f6142a0c0e7995298d7e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实习把课堂知识转化为实践技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "5966a99817f03c8ae7e1": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应抓住机会积累动手实践经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ca03e6dd7989a32c92d9": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "教育能够帮助年轻人发挥潜能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6198cbf34d7f8674dd62": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生能够把自己的知识转化为对社会的实际贡献。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8269832eaf127a5828d7": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应主动寻求实践经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "830b8bd7065fb3a744b4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "个人努力与社会提供的机会相结合时，会更有价值。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "0f8ae8e5da0fe9ee95b3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生需要培养良好的学习习惯。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "1cb1bad34fb464eb9996": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字工具能够优化学习过程。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c9e02772765fdf007dd3": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生通过坚持练习取得进步。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "215c1698dea278266921": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学校改进了在线学习平台。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "193dfd31cd0dfc765573": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "这个项目在节能方面取得了进展。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cbda4a12fe75f891ae16": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生既需要理论，也需要实践技能。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "34ac3eda6af0ce1cc543": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "项目有助于学生将知识付诸实践。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "59e549a6f893d41c8632": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应把所学应用到真实任务中。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "2e34c8f4346804f73415": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "技术的应用改变了教育。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6c70a7e0843804d3d1f2": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "政府应实施有效政策。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6846a1d9788134dcd45c": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "大学可以开展更多实践活动。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "39fc6f19775ddae08469": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "研究人员开展了一项关于在线学习的调查。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "4683e061aafaa17fe9bc": {
+    "pos": "pattern",
+    "posLabel": "句架",
+    "promptMeaning": "计划只有得到妥善执行才有用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "31b4325eebc6ef330527": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字工具不仅提高效率，还让学习资源更容易获取。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "55533a86d88257730d7e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "社会实践不仅培养实用技能，还加深学生对社会的理解。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "6db142b1469f16144949": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "传统习俗不仅保存文化记忆，还增强认同感。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "cdf2ba331b73a46a62c6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "通过参加实习，学生能够获得实践经验。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "912c2d6bb4ca705029a4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "通过核查几个可靠来源，读者能够降低被误导的风险。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e6ee56d6cab0cf625bbb": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "通过设定现实可行的目标，学生能够更有效地管理时间。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "7740e0c03ae5dac923b4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "网络资源让学生能够按自己的节奏学习。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "13b28007e73df058319f": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实践项目让学习者能够把知识应用于实际问题。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c362470ce413866853b4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "可靠的公共交通让居民出行更方便。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "c96645feb8c3843e04ab": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字技术使人们能够远程获取服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d09dacc770a384be326e": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "更完善的基础设施使货物能够更高效地流通。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "8a7b1b2acb8cfca954c6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "经常阅读有助于培养批判性思维。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "03311c2c9e3a89136214": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "团队合作有助于建立成员之间的信任。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "ee5ff9725c2978ace8a8": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "公共投资有助于改善当地服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "401ee4b242b2e0738275": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "基础知识在进一步学习中发挥重要作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "d1f4a98c6d2fb0008bab": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字素养在识别误导性信息方面发挥重要作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "5f3cf37a6cc1667d26fa": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "公共交通在城市发展中发挥重要作用。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "b0c31fcdec4b23d0cc9c": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "独立思考应被视为必不可少的学习能力。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "163bcde524a06500cc86": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "扇子既被视为实用物品，也被视为一种艺术形式。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "97891877fa32d269ee15": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "数字技术被广泛用于教育和公共服务。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "3cca4c541c2e5cb8e5f4": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "卫星导航系统被广泛应用于交通运输和救灾。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "e1ccb45b01be75d1dda6": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生练习得越多，就越自信。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "84b496a893b911641078": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "人们越认真核实信息，就越不容易传播虚假说法。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "f3d334efa44d28219931": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生积累的经验越多，就越能为未来的挑战做好准备。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "401c31c6c21a21de1467": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "学生应学会评估人工智能生成的答案，而不是直接照抄。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "bca637bf071ca59c13df": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "我们应解决根本原因，而不是只关注表面症状。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "894fbcb66531734c9c13": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "目的是培养独立思考能力，而不是死记固定答案。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "be51432e4db44f495749": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "技术虽然带来便利，也可能产生新的隐私风险。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  },
+  "77f184a91c92ef0e3c6a": {
+    "pos": "sentence",
+    "posLabel": "完整句子",
+    "promptMeaning": "实践经验虽然宝贵，却应补充而非取代学术学习。",
+    "promptContext": "",
+    "otherPos": "",
+    "grammarNote": "按本条参考句式默写"
+  }
+}

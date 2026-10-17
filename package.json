@@ -1,0 +1,8 @@
+{
+  "name": "wordgarden",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test tests/*.test.js"},
+  "description": "浏览器原生模块，无前端运行依赖或构建步骤"
+}
